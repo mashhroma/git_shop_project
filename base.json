@@ -1,0 +1,24 @@
+{
+    "id": 1,
+    "name": "product_1",
+    "size": 42,
+    "description": "a little description"
+},
+{
+    "id": 2,
+    "name": "product_2",
+    "size": 44,
+    "description": "a little description"
+},
+{
+    "id": 3,
+    "name": "product_3",
+    "size": 46,
+    "description": "a little description"
+},
+{
+    "id": 4,
+    "name": "product_4",
+    "size": 48,
+    "description": "a little description"
+}
