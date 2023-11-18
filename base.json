@@ -27,4 +27,10 @@
     "name": "product_4",
     "size": 50,
     "description": "a little description"
+},
+{
+    "id": 6,
+    "name": "product_6",
+    "size": 42,
+    "description": "a little description"
 }
